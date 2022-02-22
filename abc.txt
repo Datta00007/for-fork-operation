@@ -1,1 +1,1 @@
-this is abc.txt file from main branch and updated now in second branch
+this is abc.txt file is updated from main branch
